@@ -1,0 +1,40 @@
+.CardCartItem{
+    display: flex;
+    flex-direction: row;
+    margin: 20px 200px 0px 200px;
+    
+    
+}
+
+.cart__container img{
+    width: 100px;
+    border-radius: 10px;
+}
+
+.Total__container{
+    display: flex;
+    justify-content: flex-end;
+}
+
+.checkOut__container{
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+    
+}
+
+
+.cartDescriptions__container{
+    margin-top: 30px;
+    padding: 20px;
+}
+
+.Clear__container{
+    margin-bottom: 20px;
+}
+
+.Checkout__button{
+    display: flex;
+    justify-content: flex-end;
+}
+

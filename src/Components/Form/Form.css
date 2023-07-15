@@ -1,0 +1,15 @@
+
+.form-label{
+    padding: 20px;
+}
+
+.myForm1{
+    display: flex;  
+    flex-direction: column;
+    width: 600px;
+}
+
+button{
+    margin-top: 20px;
+    padding: 20px;
+}

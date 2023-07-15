@@ -1,0 +1,16 @@
+.Controls{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    padding: 10px;
+}
+
+.primary_buttonC{
+width: 40px;
+height: 40px;
+}
+
+.Number{
+    padding: 20px;  
+}

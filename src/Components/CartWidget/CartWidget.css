@@ -1,0 +1,26 @@
+
+.CartWidget{
+    display: flex;
+    justify-content: center;    flex-direction: row;
+    width: 200px;
+    color: black;
+
+ 
+    
+}
+
+.CartWidget a{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    text-decoration: none;
+    color:black;
+    font-size: 25px;
+}
+
+
+.CartWidget img{
+    width: 25px;
+}
