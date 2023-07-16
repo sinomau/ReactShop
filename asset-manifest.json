@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.04f81b77.css",
-    "main.js": "/static/js/main.eedcfec1.js",
-    "static/js/787.23170c61.chunk.js": "/static/js/787.23170c61.chunk.js",
-    "static/media/bootstrap-icons.woff?": "/static/media/bootstrap-icons.e559bf06bc84fd9525e6.woff",
-    "static/media/bootstrap-icons.woff2?": "/static/media/bootstrap-icons.ea98e12d2d58747f9fc5.woff2",
-    "static/media/3d.svg": "/static/media/3d.b05e6bef4de8652fb73c56f06c92d28d.svg",
-    "index.html": "/index.html",
-    "static/media/cart.svg": "/static/media/cart.c2c12d233256cff360b0f66a8088cd97.svg",
-    "main.04f81b77.css.map": "/static/css/main.04f81b77.css.map",
-    "main.eedcfec1.js.map": "/static/js/main.eedcfec1.js.map",
-    "787.23170c61.chunk.js.map": "/static/js/787.23170c61.chunk.js.map"
+    "main.css": "/ReactShop/static/css/main.3358a241.css",
+    "main.js": "/ReactShop/static/js/main.0a883808.js",
+    "static/js/787.23170c61.chunk.js": "/ReactShop/static/js/787.23170c61.chunk.js",
+    "static/media/bootstrap-icons.woff?": "/ReactShop/static/media/bootstrap-icons.e559bf06bc84fd9525e6.woff",
+    "static/media/bootstrap-icons.woff2?": "/ReactShop/static/media/bootstrap-icons.ea98e12d2d58747f9fc5.woff2",
+    "static/media/3d.svg": "/ReactShop/static/media/3d.b05e6bef4de8652fb73c56f06c92d28d.svg",
+    "index.html": "/ReactShop/index.html",
+    "static/media/cart.svg": "/ReactShop/static/media/cart.c2c12d233256cff360b0f66a8088cd97.svg",
+    "main.3358a241.css.map": "/ReactShop/static/css/main.3358a241.css.map",
+    "main.0a883808.js.map": "/ReactShop/static/js/main.0a883808.js.map",
+    "787.23170c61.chunk.js.map": "/ReactShop/static/js/787.23170c61.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.04f81b77.css",
-    "static/js/main.eedcfec1.js"
+    "static/css/main.3358a241.css",
+    "static/js/main.0a883808.js"
   ]
 }
