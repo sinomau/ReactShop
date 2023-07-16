@@ -12,7 +12,7 @@ const Cart = () => {
     return (
       <div className="cart__containerClear">
         <h3>Tu carrito está vacío</h3>
-        <Link to="/" className="Btn">
+        <Link to="/ReactShop" className="Btn">
           Ir a comprar!
         </Link>
       </div>
