@@ -1,36 +1,33 @@
+# React Shop
 
-# Proyect React
+¡Bienvenido al repositorio de React Shop, tu tienda en línea construida con React!
 
-Este es un proyecto de tienda desarrollado en React con las siguientes características:
+## Información del Proyecto
 
-Nombre: Shop
-Versión: 0.1.0
-Página de inicio: Shop - React
-Tecnologías Utilizadas:
+- **Nombre:** Shop
+- **Versión:** 0.1.0
+- **Página de Inicio:** [React Shop](https://sinomau.github.io/ReactShop)
 
-React: Versión 18.2.0
-React Bootstrap: Integración de Bootstrap en React (v2.5.0)
-Firebase: Uso de Firebase (v9.12.1) para funcionalidades en la nube
-React Router: Navegación de páginas en React (v6.4.2)
-React Hook Form: Gestión de formularios en React (v7.39.1)
-Bootstrap e Iconos Bootstrap: Utilización de Bootstrap (v5.2.1) y Bootstrap Icons (v1.9.1)
-SweetAlert2: Integración de ventanas modales personalizadas (v11.7.16)
-Testing Library: Herramientas para pruebas en React (v5.16.5 y v13.4.0)
-Web Vitals: Monitoreo de métricas web (v2.1.4)
-Este proyecto proporciona una experiencia de compra interactiva con la capacidad de gestionar formularios, navegar entre páginas, y utilizar ventanas modales atractivas. La integración con Firebase permite funciones en la nube para mejorar la interactividad y la eficiencia del sitio.
-Para iniciar el proyecto correctamente ejecutar de la siguiente manera
+## Tecnologías Utilizadas
 
+- **React:** Biblioteca de JavaScript para construir interfaces de usuario.
+- **React Bootstrap:** Integración de Bootstrap en React.
+- **Firebase:** Plataforma para el desarrollo de aplicaciones web.
+- **React Router:** Navegación entre componentes en React.
+- **React Hook Form:** Biblioteca para la gestión de formularios en React.
+- **SweetAlert2:** Integración de ventanas modales personalizadas.
 
+## Scripts Disponibles
 
+- **start:** `react-scripts start`
+- **build:** `react-scripts build`
+- **test:** `react-scripts test`
+- **eject:** `react-scripts eject`
+- **predeploy:** `npm run build`
+- **deploy:** `gh-pages -d build`
 
-## Deployment
+## Uso
 
-To deploy this project run
-
-```bash
-git clone https://github.com/sinomau/React.git
-cd shop 
-npm install
-npm start
-```
-
+1. Clona este repositorio: `git clone https://github.com/sinomau/ReactShop.git`
+2. Instala las dependencias: `npm install`
+3. Inicia la aplicación: `npm start`
