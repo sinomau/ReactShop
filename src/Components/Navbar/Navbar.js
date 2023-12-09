@@ -15,14 +15,14 @@ const NavBar = () =>{
     <Navbar bg="light" expand="lg">
       <Container>
         <div className="container__logo">
-          <Link to='/ReactShop'><img className="logo" src={logo} alt="logo" /></Link>
+          <Link to='/'><img className="logo" src={logo} alt="logo" /></Link>
           <h2>Plain</h2>
         </div>
         <Navbar.Brand href="#home"></Navbar.Brand >
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav">
           <Nav className="me-auto">
-          <Link to={'/ReactShop'} className="btn" variant="outline-dark"> Inicio</Link>
+          <Link to={'/'} className="btn" variant="outline-dark"> Inicio</Link>
             <NavDropdown title="Productos" id="basic-nav-dropdown">
               <Link to={'/category/figuras'} className="btn"> Figuras 3D</Link>
               <Link to={'/category/decoracion'} className="btn"> Decoracion</Link>

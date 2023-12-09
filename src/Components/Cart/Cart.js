@@ -1,18 +1,17 @@
 import React from "react";
 import CartItem from "../CartItem/CartItem";
 import { Link } from "react-router-dom";
-import {useCart} from "../../context/CartContext";
+import { useCart } from "../../context/CartContext";
 import "./Cart.css";
 
 const Cart = () => {
   const { cart, clearCart, totalQuantity, total } = useCart();
-  
 
   if (totalQuantity === 0) {
     return (
       <div className="cart__containerClear">
         <h3>Tu carrito está vacío</h3>
-        <Link to="/ReactShop" className="Btn">
+        <Link to="/" className="Btn btn-primary ">
           Ir a comprar!
         </Link>
       </div>
