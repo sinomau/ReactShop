@@ -1,4 +1,4 @@
-import { useState, createContext } from 'react'
+import { useState, createContext, useContext } from 'react'
 import React from 'react'
 
 const Notification = ({ message, severity }) => {
@@ -45,3 +45,9 @@ export const NotificationProvider = ({ children }) => {
         </NotificationContext.Provider>
     )
 }
+
+export const useNotification = () => {
+  const { setNotification } = useContext(NotificationContext);
+
+  return { setNotification };
+};

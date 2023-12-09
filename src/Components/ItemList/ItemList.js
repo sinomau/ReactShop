@@ -1,13 +1,15 @@
-import React from 'react'
-import Item from '../Item/Item'
-import { memo } from 'react'
+import React from "react";
+import Item from "../Item/Item";
+import { memo } from "react";
 
 const ItemList = ({ products }) => {
-    return(
-        <div className='ListGroup'>
-            {products.map(prod => <Item key={prod.id} {...prod} />)}
-        </div>    
-    )
-}
+  return (
+    <>
+      {products.map((prod) => (
+        <Item key={prod.id} {...prod} />
+      ))}
+    </>
+  );
+};
 
-export default memo(ItemList)
+export default memo(ItemList);

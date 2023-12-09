@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Oswald:wght@300;400&family=Roboto:wght@300;400&display=swap');
 
-.ListGroup{
+.itemContainer{
     display: flex;
     padding: 100px 200px 100px 200px;
     flex-wrap: wrap;
